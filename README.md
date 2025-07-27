@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Devraj Basnet, a CSIT graduate from Tribhuvan University with a passion for web development and programming. I have a solid foundation in various programming languages, including C, C++, Java, Python, and C#, along with hands-on experience in front-end development using HTML, CSS, JavaScript, and React.js. My journey in tech has also taken me through database management with MySQL, SQL, and MongoDB.I bring a unique blend of technical skills and business acumen to every project I work on. I’m eager to contribute to collaborative projects, explore new technologies, and continuously learn and grow in this ever-evolving field.
+Hello! I'm Devraj Basnet, a CSIT graduate from Tribhuvan University with a passion for web development and programming. I have a solid foundation in various programming languages, including C, C++, Java, Python, and C#, along with hands-on experience in front-end and back-end development using React.js and Asp.Net. My journey in tech has also taken me through database management with MySQL, SQL, and MongoDB.I bring a unique blend of technical skills and business acumen to every project I work on. I’m eager to contribute to collaborative projects, explore new technologies, and continuously learn and grow in this ever-evolving field.
 
 
 ## 🌐 Socials:
